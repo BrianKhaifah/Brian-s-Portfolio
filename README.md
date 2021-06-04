@@ -53,8 +53,6 @@ Personal
 
 #### Mt [**License**](https://choosealicense.com/licenses/mit/)
 
-Copyright (c) 2021 [BrianKhaifah !]()
+Copyright (c) 2021 [BrianKhaifah !](https://briankhaifah.github.io/Brian-s-Portfolio/)
 
-
-Copyright (c) 2021 BrianKhaifah
 
