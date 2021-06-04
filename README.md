@@ -11,11 +11,12 @@
 
 | Number | Project | View | Link |
 | ---   |  ---     | ---  | --- |
-| 001 | Pet Store  | ![img](img/pet.webp) | [Visit](https://briankhaifah.github.io/Facion-Industry/)
+| 001 | Portfolio  | ![img](img/pet.webp) | [Visit](https://briankhaifah.github.io/Brian-s-Portfolio/)
 | 002 | Favorite Band  | ![img](img/band.jpeg) | [Visit](https://briankhaifah.github.io/Facion-Industry/)
 | 003 | Industry  | ![img](img/g1.jpeg) | [Visit](https://briankhaifah.github.io/Facion-Industry/)
 | 004 | Dairy Farm  | ![img](img/frm.jpeg) | [Visit](https://briankhaifah.github.io/Facion-Industry/)
-| 005 | Readme  | ![stoimgre](img/read.jpeg) | [Visit](https://briankhaifah.github.io/Facion-Industry/)
+| 005 | Readme  | ![img](img/read.jpeg) | [Visit](https://briankhaifah.github.io/Facion-Industry/)
+| 006 | pet store  | ![img](img/read.jpeg) | [Visit](https://briankhaifah.github.io/Facion-Industry/)
 |       |        |       |
 
 ## **Contributors**
