@@ -19,6 +19,18 @@
 | 006 | pet store  | ![img](img/read.jpeg) | [Visit](https://briankhaifah.github.io/Facion-Industry/)
 |       |        |       |
 
+
+| Names | Team | Number | Colour |
+| --- | --- | --- | --- |
+| Chalse | Chealsea | 001 | Blue |
+| Evans | M-city | 002 | Green |
+| Chalse | Chealsea | 001 | Blue |
+| Evans | M-city | 002 | Green |
+| | | |
+
+ >#### Kenya is Home
+
+
 ## **Contributors**
 #### The website was brought to life by : [**Brian Khaifah**](https://moringaschool.com/)
 
