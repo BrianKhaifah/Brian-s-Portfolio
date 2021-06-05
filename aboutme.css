@@ -88,6 +88,22 @@ html{
 
 }
 
+.btn0{
+    padding: 10px 35px ;
+    background-color: transparent;
+    border: 0px solid wheat;
+    color: wheat;
+    transition: .6s ease-in-out;
+
+}
+.btn0:hover{
+    cursor: pointer;
+    background-color: wheat;
+    color: black;
+    box-shadow: 0 0 10px wheat;
+    font-weight: bold;
+}
+
 #intro{
     display: flex;
     flex-direction: column;
