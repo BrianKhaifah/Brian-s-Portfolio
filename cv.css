@@ -76,7 +76,14 @@ p{
 }
 #display{
     display: flex;
+    width: 100%;
 }
-#left{
+#flex{
+    width: 60%;
+    
+}
+
+#time{
+    width: 30%;
     
 }
