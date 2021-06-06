@@ -151,7 +151,7 @@ html{
     
     
 }
-.row{
+.rowx{
     display: flex;
     justify-content: space-around;
     box-sizing: border-box;
@@ -161,7 +161,7 @@ html{
     display: flex;
     flex-direction: column;
     width: 350px;
-    height: 450px;
+    height: 550px;
     border: 1px solid black;
     margin: 20px;
     align-items: center;
@@ -178,7 +178,7 @@ html{
     
 }
 p{
-    padding: 20px;
+    padding: 5px;
 }
 
 .btn{
