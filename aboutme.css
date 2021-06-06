@@ -87,16 +87,26 @@ html{
     height: 400px;
 
 }
+.btn0 a{
+   
+        text-decoration: none;
+        color: wheat;
+        transition: .6s ease-in-out;
+        
+    
+}
 
 .btn0{
-    padding: 8px  ;
+    padding: 10px 35px ;
     background-color: transparent;
     border: 0px solid wheat;
     color: wheat;
     transition: .6s ease-in-out;
+    text-decoration: none;
 
 }
-.btn0:hover{
+.btn0 a:hover{
+    padding: 10px 35px ;
     cursor: pointer;
     background-color: wheat;
     color: black;
