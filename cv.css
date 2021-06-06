@@ -4,6 +4,11 @@
     box-sizing: border-box;
 
 }
+body{
+    /* background-color: rgba(0, 0, 0, 0.1); */
+    /* background-image: url("img/mat.jpeg"); */
+    background-size: 100% 100%;
+}
 html{
     scroll-behavior: smooth;
 }
@@ -46,6 +51,9 @@ html{
     width: 100%;
     height: auto;
     background-color: rgba(0, 0, 0, 0.3);
+    /* background-image: url("img/image1.jpeg");
+    background-size: 100% 100%; */
+    
 }
 .tex{
     display: flex;
