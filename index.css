@@ -74,15 +74,15 @@ body{
     margin: 40px ;
 }
 
-.btn{
+.btnm{
     padding: 10px 35px ;
     background-color: transparent;
-    border: 1px solid wheat;
+    border: 0px solid wheat;
     color: wheat;
     transition: .6s ease-in-out;
 
 }
-.btn:hover{
+.btnm:hover{
     cursor: pointer;
     background-color: wheat;
     color: black;
