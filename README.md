@@ -1,7 +1,7 @@
 ## **Application Name**
 #### _Brian's Portfolio_
 
-![Portfolio](img/kenya.jpeg)
+![Portfolio](img/prog.jpg)
 
 ## **Description**
 #### As a programmer this is my portfolio resume. it is a showcase that brings to light my developing skills and to confidently prove that i can do what i talked about in my resume.
@@ -11,25 +11,13 @@
 
 | Number | Project | View | Link |
 | ---   |  ---     | ---  | --- |
-| 001 | Portfolio  | ![img](img/pet.webp) | [Visit](https://briankhaifah.github.io/Brian-s-Portfolio/)
+| 001 | Portfolio  | ![img](img/image1.jpeg) | [Visit](https://briankhaifah.github.io/Brian-s-Portfolio/)
 | 002 | Favorite Band  | ![img](img/band.jpeg) | [Visit](https://briankhaifah.github.io/Facion-Industry/)
 | 003 | Industry  | ![img](img/g1.jpeg) | [Visit](https://briankhaifah.github.io/Facion-Industry/)
 | 004 | Dairy Farm  | ![img](img/frm.jpeg) | [Visit](https://briankhaifah.github.io/Facion-Industry/)
 | 005 | Readme  | ![img](img/read.jpeg) | [Visit](https://briankhaifah.github.io/Facion-Industry/)
-| 006 | pet store  | ![img](img/read.jpeg) | [Visit](https://briankhaifah.github.io/Facion-Industry/)
+| 006 | pet store  | ![img](img/pet.webp ) | [Visit](https://briankhaifah.github.io/Facion-Industry/)
 |       |        |       |
-
-
-| Names | Team | Number | Colour |
-| --- | --- | --- | --- |
-| Chalse | Chealsea | 001 | Blue |
-| Evans | M-city | 002 | Green |
-| Chalse | Chealsea | 001 | Blue |
-| Evans | M-city | 002 | Green |
-| | | |
-
- >#### Kenya is Home
-
 
 ## **Contributors**
 #### The website was brought to life by : [**Brian Khaifah**](https://moringaschool.com/)
